@@ -6,4 +6,4 @@
   Attribute Information:
 
   The explanations of sensor measurements and their brief statistics are given below.
-    <img width="425" alt="image" src="https://github.com/Siddhant1803/Neural-Network-gas-turbine-/assets/127285389/66496709-985d-470c-8556-9a62bf1d64d4">
+   ## <img width="425" alt="image" src="https://github.com/Siddhant1803/Neural-Network-gas-turbine-/assets/127285389/66496709-985d-470c-8556-9a62bf1d64d4">
